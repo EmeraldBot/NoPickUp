@@ -1,0 +1,8 @@
+name: NoPickUp
+author: MistPhizzle
+main: com.mistphizzle.nopickup.NoPickUp
+version: 1.0
+commands:
+  nopickup:
+    usage: /<command>
+    aliases: [np,npu]
